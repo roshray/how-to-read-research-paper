@@ -120,7 +120,7 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 - AGI  -  Artificial General Intelligence.
 - ANI  -  Artificial Narrow Intelligence.
 
-**True AI Company**
+## True AI Company
 
 - It requires a good sound company-wide the AI Strategy.
 - Should have In-house AI resources and the AI talents to build sequences of AI Projects.
