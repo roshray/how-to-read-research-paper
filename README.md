@@ -112,7 +112,7 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 - Learn the Most.
 - Do Important Work.
 
-                    All these willl help in long term.
+                    All these will help in long term.
 
 ## AI as an Enterprise
 
