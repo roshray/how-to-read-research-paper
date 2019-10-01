@@ -96,8 +96,8 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 
 ### Job Offer Not Attractive 
 
-- They refuse to say who you manager is.
-- They refuse to say which project  you gonno work.
+- They refuse to say who your manager is.
+- They refuse to say which project  you gonna work.
 - Be careful.
 
 ### Some Company with NO brands but Elite Team
