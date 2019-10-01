@@ -1,8 +1,9 @@
 # Read-Research-Paper
-Research Paper Reading Approach
+
+Research Paper Reading Approach - A notes from Andrew Ng Lecture.
 
 
-## How to Read the Research Paper.
+### How to Read the Research Paper.
 
 **Compile the List of papers.**
     
@@ -14,7 +15,9 @@ Research Paper Reading Approach
 - ML sub reddit
 - NIPS/ICML/....
 
- ## GOAL
+ ### GOAL
+ 
+ 
 ``` 
 Read 50-100 Research paper to have very good understanding of that Domain.
 ```
@@ -25,18 +28,18 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 **Multiple Passes.**
 
 ```
-1. First pass --- Title/abstract/Figures.
-2. Intro -- Conclusion -- Figures -- skim rest.(skim the related work)
-3. Read the paper but skip the Maths.
-4. Real the whole thing but skip the part that doesn't make sense.
-5. what did the authors tried to accomplish ?
-6. what are the key Elements of the approach ?
-7. what can you use yourself ?
-8. what other references do you want to follow ?
+        1. First pass --- Title/abstract/Figures.
+        2. Intro -- Conclusion -- Figures -- skim rest.(skim the related work)
+        3. Read the paper but skip the Maths.
+        4. Real the whole thing but skip the part that doesn't make sense.
+        5. what did the authors tried to accomplish ?
+        6. what are the key Elements of the approach ?
+        7. what can you use yourself ?
+        8. what other references do you want to follow ?
 
 ```
 
-## Deeply Understand paper For Maths.
+### Deeply Understand paper For Maths.
 
 - Read and take Detailed Notes and then see if you can re-derive it from scratch.(Good Practice -- Give the ability to generalize, to derive new Novel pieces of Math yourself.)
 
@@ -57,10 +60,10 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 
 - Selecting a Postion.
 
-## what Recruiters Look for 
+### what Recruiters Look for 
 
 - Skills(ML,Quiz,Coding)
-- Meaniful Work(Assure that you can work)
+- Meaningful Work(Assure that you can work)
 
 ### Area's of Machine Learning 
 
@@ -125,21 +128,7 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 - AI workflows and process.
 - Thoughtful regularization.
 
-### ROADMAP to Turn into AI Company.
 
-- Start with 1-2 projects.
-- Building a AI Team.
-- Education.
-- AI strategy.
-- Internal & External Communications(Clear communication on how AI works)
-
-### How to Find right Use Case 
-
-- Start small.
-- Automate Tasks, not jobs.
-- Combine AI (What AI Can Do)& subject matter expertise(Things valuable for your business).
-            
-                    Brainstroam Projects Together.
 
 
 ## When someone agrees with your IDEA -- ask them to Gamble on it(nobody knows its right-- so Gamble it).
