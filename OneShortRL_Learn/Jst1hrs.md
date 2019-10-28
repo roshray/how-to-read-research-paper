@@ -10,4 +10,12 @@ This is known as one transition step, represented by a tuple (s, a, s’, r).
 
 ```
 
-Model: Transition and Reward
+## Model: Transition and Reward
+
+### Value based learning, ,Model based learninig & 
+
+#### Solve Problem :
+
+- TD
+- Monte Carlo
+
