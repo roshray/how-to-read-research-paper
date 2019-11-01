@@ -131,7 +131,7 @@ Read 50-100 Research paper to have very good understanding of that Domain.
 
 
 
-## When someone agrees with your IDEA -- ask them to Gamble on it(nobody knows its right-- so Gamble it).
+``` When someone agrees with your IDEA -- ask them to Gamble on it(nobody knows its right-- so Gamble it).```
 
 
 
